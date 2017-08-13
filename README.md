@@ -10,6 +10,7 @@ theharvester stdout parser of multiple harvested SMTP addresses.
 Updates:
 
  > Extensible Markup Language stdout (with pretty colours).
+ 
  > Submit a non ciphertext passphrase or hashed passphrase for pwn3d status.
 
 # Credit
