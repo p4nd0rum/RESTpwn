@@ -9,7 +9,9 @@ theharvester stdout parser of multiple harvested SMTP addresses.
 
 Updates:
 
-> Extensible Markup Language stdout (with pretty colours).
+ > Extensible Markup Language stdout (with pretty colours).
+ > Submit a non ciphertext passphrase or hashed passphrase for pwn3d status.
 
 # Credit
   * Troy Hunt for his public v2 RESTful API release
+  * Praise the /api || /rest g0dz.
