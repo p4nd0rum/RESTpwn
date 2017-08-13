@@ -2,7 +2,9 @@
 haveibeenpwned API v2 Python script.
 
 Unicast check of one SMTP address.
+
 Multicast check of multiple SMTP addresses.
+
 theharvester stdout parser of multiple harvested SMTP addresses.
 
  * stdout to Javascript Object Notation (with pretty colours).
